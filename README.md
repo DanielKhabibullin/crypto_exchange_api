@@ -1,5 +1,4 @@
-# API for «crypto_exchange»
-<a href="https://github.com/DanielKhabibullin/crypto_exchange">
+# API for «<a href="https://github.com/DanielKhabibullin/crypto_exchange">crypto_exchange</a>»
 
 ## Установка и запуск проекта
 1. Для запуска данного проекта вам понадобится nodejs и npm.  
