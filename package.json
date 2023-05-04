@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    // "start": "node ./src/index.js",
-    "start": "npm start",
+    "start": "node ./src/index.js",
     "test": ""
   },
 	"engines": { "node": "16.x"},
